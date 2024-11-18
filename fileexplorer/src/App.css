@@ -1,0 +1,16 @@
+.folder {
+    margin-top: 6px;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px;
+    width: 300px;
+    cursor: pointer;
+  }
+.folder > span {
+    margin: 0 5px;
+}
+.folder-btn > button:first-child{
+   margin-right: 10px;
+}
